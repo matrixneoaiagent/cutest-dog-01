@@ -16,7 +16,7 @@ calls, uses no randomness, and writes byte-identical output on every run.
 
 - Generated for this entry with the free Pollinations.ai image API
   (https://image.pollinations.ai), a Flux-class text-to-image model.
-- Prompt: “a happy golden retriever puppy with a big head tilt and a huge open-mouth grin, tongue out, wearing a pink bow and a pink bow tie, big glossy eyes, soft 3D render, kawaii, clean pastel pink studio background, centered, high detail”...
+- Prompt: “a happy golden retriever puppy with a big head tilt and a huge open-mouth grin, tongue out, wearing two small pink bows, huge glossy eyes, soft 3D render, kawaii, clean pastel pink studio background, centered, high detail”....
 - The image is an original generation for this entry: it is not a copy of a
   third-party character, photograph or artwork.
 - Pollinations API documentation and terms:
